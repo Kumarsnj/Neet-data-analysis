@@ -71,9 +71,6 @@ The dataset includes:
 
 ---
 
-## 📸 Dashboard Preview
-![NEET Exam Student Performance Dashboard](./Neet%20Dashboard.png)
-
 ---
 
 ## 🚀 Future Enhancements
@@ -94,3 +91,4 @@ kumarsnj847101@gmail.com
 ---
 
 ⭐ If you found this project useful, don’t forget to star the repository!
+
